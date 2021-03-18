@@ -1,5 +1,13 @@
 # Change Log
 
+# 10.0.1 [Better Glass Pane Experience]
+
+- Fixed annoying background dragging in file tree.
+
+| Before | After |
+| --- | --- |
+| | |
+
 # 10.0.0 [Glass Pane Wallpapers!]
 
 - Changed the behavior of the wallpapers to look like they are behind a glass pane!
